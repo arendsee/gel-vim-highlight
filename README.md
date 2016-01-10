@@ -6,7 +6,8 @@ Vim.
 ## Description
 
 GEL is a graphics exploration language used in the network analysis program
-[Mango](http://www.complex.iastate.edu/download/Mango/index.html).
+[Mango](http://www.complex.iastate.edu/download/Mango/index.html) created by
+[Jennifer Chang](http://j23414.github.io/) and Hui-Hsien Chou.
 
 ## INSTALLATION
 
